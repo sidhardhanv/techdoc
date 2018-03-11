@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.css">
+
+</head>
+<body background="img-01.jpg" background-size="cover" 
+background-repeat="no-repeat">
+
+<center><br>
+<br><br><br><br><br><br><br><br><br><br>
+<fieldset>
+<legend> Result </legend>
+<h3> We suspect that you have greater chances of having Chicken Pox </h3>
+<a href="index.html">CHECK </a>
+</fieldset>
+
+</center>
+
+</body>
+</html>
